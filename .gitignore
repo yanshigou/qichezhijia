@@ -1,0 +1,9 @@
+.git/
+.idea/
+.vscode/
+*.pyc
+00*
+fabfile.py
+other/
+*.json
+*.csv
